@@ -357,3 +357,5 @@ MigrationBackup/
 .ionide/
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio
+/CPP_pointer_variable/.vs
+/pointer_variable/.vs
